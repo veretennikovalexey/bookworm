@@ -1,3 +1,7 @@
+# Microsoft Visual C++ 2019 Package
+
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
 # bookworm
 
 https://github.com/veretennikovalexey/bookworm
