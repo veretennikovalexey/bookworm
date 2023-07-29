@@ -9,3 +9,19 @@ https://github.com/veretennikovalexey/bookworm
 3. https://download.virtualbox.org/virtualbox/7.0.10/Oracle_VM_VirtualBox_Extension_Pack-7.0.10.vbox-extpack
 
 4. https://download.virtualbox.org/virtualbox/7.0.10/VBoxGuestAdditions_7.0.10.iso
+
+Установка гостевых дополнений
+
+apt install build-essential dkms linux-headers-$(uname -r)
+
+cd /tmp
+
+wget http://download.virtualbox.org/virtualbox/7.0.10/VBoxGuestAdditions_7.0.10.iso
+
+mount -o loop,ro VBoxGuestAdditions_7.0.10.iso /mnt
+
+sh /mnt/VBoxLinuxAdditions.run --nox11
+
+umount /mnt
+
+rm VBoxGuestAdditions_7.0.10.iso
