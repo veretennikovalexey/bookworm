@@ -13,6 +13,8 @@ https://github.com/veretennikovalexey/bookworm
 
 # virtualbox 7.0.12
 
+https://download.virtualbox.org/virtualbox/7.0.12
+
 1. https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-Win.exe
 
 2. https://cdimage.debian.org/debian-cd/current/amd64/bt-cd/debian-12.1.0-amd64-netinst.iso.torrent
