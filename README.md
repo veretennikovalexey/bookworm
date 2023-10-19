@@ -21,9 +21,9 @@ https://download.virtualbox.org/virtualbox/7.0.12
 
 3. https://download.virtualbox.org/virtualbox/7.0.12/Oracle_VM_VirtualBox_Extension_Pack-7.0.12.vbox-extpack
 
-4. https://download.virtualbox.org/virtualbox/7.0.10/VBoxGuestAdditions_7.0.10.iso
+4. https://download.virtualbox.org/virtualbox/7.0.12/VBoxGuestAdditions_7.0.12.iso
 
-Установка гостевых дополнений
+# Установка гостевых дополнений
 
 apt install build-essential dkms linux-headers-$(uname -r)
 
