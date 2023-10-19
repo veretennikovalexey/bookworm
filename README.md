@@ -1,3 +1,8 @@
+# ubuntu 
+# Mantic Minotaur 23.10
+
+https://releases.ubuntu.com/23.10/ubuntu-23.10.1-desktop-amd64.iso.torrent
+
 # Microsoft Visual C++ 2019 Package
 
 https://aka.ms/vs/17/release/vc_redist.x64.exe
